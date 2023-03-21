@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: theModItself
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2023-03-20T21:43:56-0400
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
