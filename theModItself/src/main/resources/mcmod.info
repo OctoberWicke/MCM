@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "greymanloveslancer",
+  "name": "Greyman Loves Lancer",
+  "description": "It's his favorite RPG after D&D 5E and Everyone Is John",
+  "version": "0.0.0",
+  "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Trash_Villainous", "Founded1992", "waffles187"],
+  "credits": "God and various Youtube videos",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
